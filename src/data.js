@@ -8,11 +8,11 @@ export const projects = [
     link: "https://intense-meadow-56790.herokuapp.com/",
   },
   {
-    title: "Weather Dashboard",
-    subtitle: "Simple JS/HTML/CSS application",
+    title: "DreamAI",
+    subtitle: "Made using the Full Mern Stack",
     description:
-      "Weather forecast provider that gives you both current weather and the 5 day forecast for a given location",
-    image: "./weather-dashboard.png",
+      "Story Generator based utilizing prompts and AI",
+    image: "./DreamAI.png",
     link: "https://mitchell4563.github.io/Weather-Dashboard/",
   },
   {
