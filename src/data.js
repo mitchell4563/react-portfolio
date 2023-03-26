@@ -13,7 +13,7 @@ export const projects = [
     description:
       "Story Generator based utilizing prompts and AI",
     image: "./DreamAI.png",
-    link: "https://mitchell4563.github.io/Weather-Dashboard/",
+    link: "https://awstesting.d1pvujnt4zx0rz.amplifyapp.com/",
   },
   {
     title: "Bounty Hunter's guild",
